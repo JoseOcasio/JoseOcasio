@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JoseOcasio
+- 👀 I’m interested in all things related to software, technology and cloud
+- 🌱 I’m currently learning system design, architecture and react
+- 💞️ I’m looking to collaborate on cool projects related to cloud, web, game dev, etc
