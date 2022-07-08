@@ -31,3 +31,4 @@ Currently, I'm interested in
 
 ## Currently supporting: 
   -  http://vitagamesdb.com/
+  -  http://getkopy.com/
