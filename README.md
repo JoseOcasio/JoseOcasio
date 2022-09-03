@@ -30,5 +30,5 @@ Currently, I'm interested in
 
 
 ## Currently supporting: 
-  -  http://vitagamesdb.com/
-  -  http://getkopy.com/
+  -  https://vitagamesdb.com/
+  -  https://getkopy.com/
