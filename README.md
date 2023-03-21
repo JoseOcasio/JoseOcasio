@@ -4,7 +4,7 @@
 
 Hey there, I'm Jose Ocasio.
 
-I was borned and raised in Puerto Rico in a small town on the east side. Growing up I was always passionate about technology and one day I just decided to become a computer engineer. 
+I was born and raised in Puerto Rico in a small town on the east side. Growing up I was always passionate about technology and one day I just decided to become a computer engineer. 
 I graduated from the University of Puerto Rico at Mayaguez.
 
 
