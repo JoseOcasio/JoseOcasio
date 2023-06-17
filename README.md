@@ -13,6 +13,9 @@ I'm currently learning a bunch of things and tinkering with new tech. I have a f
 There is a lot I don't know, which pushes me to learn a bit more everyday. 
 
 Currently, I'm interested in
+* Infrastructure Engineering
+* Python
+* Micro Services
 * Cloud Architecture
 * Cloud Native Solutions
 * ReactJS
@@ -26,6 +29,9 @@ Currently, I'm interested in
 * Clean Code
 * Software Architecture for Engineering
 * SRE Workbook
+* Solutions Architecture (AWS)
+* Developer Certificate (AWS)
+* System Design II
 
 
 
