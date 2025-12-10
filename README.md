@@ -9,7 +9,7 @@ I graduated from the University of Puerto Rico at Mayaguez.
 
 
 ## Interests
-I'm currently learning a bunch of things and tinkering with new tech. I have a full time job where I function as a Software Architect and Software Engineer.
+I'm currently learning a bunch of things and tinkering with new tech. I have a full time job where I function as a Staff Software Engineer.
 There is a lot I don't know, which pushes me to learn a bit more everyday. 
 
 Currently, I'm interested in
